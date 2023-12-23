@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515128826109",
+    "project_id": "xpense-b398f",
+    "storage_bucket": "xpense-b398f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515128826109:android:bcc3eee0eb650666c50694",
+        "android_client_info": {
+          "package_name": "com.example.xpense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaStQHE-Vunubqkcy8T5SchDBRmP3vVU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
